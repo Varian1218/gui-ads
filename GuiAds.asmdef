@@ -1,0 +1,16 @@
+{
+    "name": "GuiAds",
+    "rootNamespace": "",
+    "references": [
+        "GUID:cd9bec28b132342979e70d6f22e9a5cc"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

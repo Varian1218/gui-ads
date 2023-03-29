@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "com.little-lion.ads": "https://github.com/Varian1218/ads.git"
+  },
+  "description": "",
+  "displayName": "Gui Ads",
+  "keywords": [],
+  "name": "com.little-lion.gui-ads",
+  "unity": "2021.3",
+  "version": "1.0.1"
+}
